@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppIMC</string>
+    <string name="Índice_de_masa_corporal">Índice de masa corporal</string>
+    <string name="Una_imagen_del_imc">Una imagen del IMC.</string>
+    <string name="estatura_m">Estatura (m)</string>
+    <string name="peso_kg">Peso (kg)</string>
+    <string name="number">number</string>
+    <string name="estatura_en_metros">Estatura en metros</string>
+    <string name="peso_en_kilogramos">Peso en kilogramos</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+</resources>
